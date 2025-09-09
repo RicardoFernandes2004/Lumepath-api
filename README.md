@@ -21,7 +21,7 @@
 
 ```text
 src/
-  domain/
+  beans/
     Alerta.java          // POJO
     Estoque.java         // POJO
     Material.java        // POJO
