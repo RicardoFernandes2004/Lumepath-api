@@ -1,4 +1,4 @@
-# LumePath – Java SE + JDBC + JOptionPane (Oracle)
+# LumePath 
 
 ## 💡 Visão geral
 
