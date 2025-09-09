@@ -174,4 +174,6 @@ java  -cp out;ojdbc11.jar main.Main
 * `ORA-02292: integrity constraint violated`: você tentou excluir pai com filhas → use o **delete com prévia** (CASCADE manual) ou o **estorno** específico.
 * Datas no relatório: use formato `YYYY-MM-DD` no input.
 
+## TODO: QND O PROFESSOR DEIXAR USAR SPRING TROCAR TODA ESSA JOÇA MANUAL POR JPA
+
 
